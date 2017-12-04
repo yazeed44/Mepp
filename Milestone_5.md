@@ -1,11 +1,10 @@
-1
 	First Test Case
 		Attempt to create an account that already exists
 			username: omarmohammed
 			Name: Omar
 			email:test1@test1.com
 			password: 123456
-		When the user attempts to create an account that has the same username or email as above it will display an error and ask the user to change the field depending on which field
+		When the user attempts to create an account that has the same username or email as above it will display                        an error and ask the user to change the field depending on which field
 	
 	Second Test Case
 		Attempt to create an account that has empty fields
