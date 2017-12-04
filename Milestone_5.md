@@ -28,8 +28,6 @@
 		The root user doesn't exist within the database's users. We were thinking of reserving the root username for testing.
 		The user will be asked to enter the correct username or direct him to the sign up page.
 			
-
-2
 We're using [Appium](http://appium.io/) for automating tests, which is an open-source tool for automating testing on mobile applications. It allows us to write cross-platform code for testing.
 After setting up everything we have to inspect the application using Appium Desktop to check the element in the application,
 then we write the test script and then we can run it in Eclipse.
