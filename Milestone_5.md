@@ -1,5 +1,4 @@
 1
-Test cases
 	First Test Case
 		Attempt to create an account that already exists
 			username: omarmohammed
